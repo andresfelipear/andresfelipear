@@ -88,25 +88,20 @@ I am a results-driven Android Developer with extensive experience in building an
 
 ### 🚀 Featured Projects
 
-#### 1. Tasky
+#### [1. Tasky](https://github.com/andresfelipear/Compose-TaskyApp)
 - **Description:** A robust, offline-first Android agenda management application with comprehensive CRUD operations for events, tasks, and reminders.
 - **Tech Stack:** MVVM, Kotlin Coroutines, Flows, Work Manager.
 - **Achievement:** Decreased errors by 20% and increased customer satisfaction by identifying all edge cases for offline-first design.
-- https://github.com/andresfelipear/Compose-TaskyApp
 
-#### 2. Holidays Calendar
+#### [2. Holidays Calendar](https://github.com/andresfelipear/ComposeCaloriesApp)
 - **Description:** A published Android application that displays holidays by country.
 - **Tech Stack:** Jetpack Compose for UI and Retrofit for API data fetching.
 - **Achievement:** Increased app performance by 15% by implementing local caching to avoid overloading the API.
-- https://github.com/andresfelipear/ComposeCaloriesApp
 
-#### 3. Calories App
+#### [3. Calories App](https://github.com/andresfelipear/ComposeCaloriesApp)
 - **Description:** An Android app to track calorie intake, integrated with a third-party API for accurate nutritional data.
 - **Tech Stack:** Hilt & Dagger for Dependency Injection, Moshi for JSON parsing.
 - **Achievement:** Reduced app loading time by 20% through optimized backend queries.
-- https://github.com/andresfelipear/ComposeCaloriesApp
-
----
 
 ### 📊 My GitHub Stats
 
