@@ -1,10 +1,6 @@
 <p align="center">
   <img width="1600" height="400" alt="Andres Arevalo - Full-Stack Software Developer" src="banner.svg" />
 </p>
-
-<h1 align="center">Hi there 👋, I'm Andres Arevalo</h1>
-<h3 align="center">Full-Stack Software Developer based in Vancouver</h3>
-
 <p align="left">
   <a href="https://github.com/andresfelipear" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
